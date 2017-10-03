@@ -1,0 +1,4 @@
+# Leapduino
+Leap Motion controlled robotic 3 axis robotic arm
+Abstract
+The Leap Motion controller uses a combination of infrared sensors and cameras to allow users to interface with computers using their hands. The Leap Motion has a very high level of sensitivity with the ability to recognize the individual digits on a person’s hand and can track the movement of a fingertip over a distance as small as a millimeter. Using the Leap Motion API, a software development kit that enables easy integration between their controller and embedded platforms such as the Arduino microcontrollers, the goal of this project is to design and implement an interactive robotic checkers-playing exhibit. The setup will allow people to use hand motions to control the robotic arms to pick up and move checkers pieces on a checkers board. The hand motion recognition and data collection will be handled using the Leap Motion controller, while Arduinos will be used to control the robotic arms.
